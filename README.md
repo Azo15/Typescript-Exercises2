@@ -14,3 +14,6 @@ Bu dosya, TypeScript ile **döngüler (while, for)** üzerine alıştırmalar i�
 1. Repoyu klonlayın:
    ```bash
    git clone <repo-url>
+   
+2.TypeScript dosyasını çalıştırın:
+<ts-node >
