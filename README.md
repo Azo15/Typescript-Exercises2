@@ -16,4 +16,4 @@ Bu dosya, TypeScript ile **döngüler (while, for)** üzerine alıştırmalar i�
    git clone <repo-url>
    
 2.TypeScript dosyasını çalıştırın:
-<ts-node >
+<ts-node loops-in-typescript.ts>
