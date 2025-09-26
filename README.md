@@ -11,7 +11,7 @@ Bu dosya, TypeScript ile **döngüler (while, for)** üzerine alıştırmalar i�
 - Faktöriyel hesaplama  
 
 ### Çalıştırma
-1. Repoyu klonlayın:
+1. Repoyu klonlayın: 
    ```bash
    git clone <repo-url>
    
